@@ -4,5 +4,5 @@ It contains multiple files.
 
 Foobar. Toto.
 
-Master branch.
+Vendor branch.
 
